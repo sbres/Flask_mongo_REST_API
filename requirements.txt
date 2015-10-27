@@ -1,0 +1,5 @@
+Flask==0.10.1
+Flask-WTF==0.12
+phonenumbers==7.1.0
+Flask-RESTful==0.3.4
+pymongo==3.0.3
